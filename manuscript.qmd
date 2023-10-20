@@ -20,7 +20,7 @@ Department of Obstetrics and Gynecology, Faculty of medicine, Ain Shams Universi
 
 Hamdy Bakry Alqenawy
 
-Address: Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Ramses Street, Cairo, Egypt
+Address: Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Ramses Street, Cairo 11591, Egypt
 
 Email: [hamdybakry\@med.asu.edu.eg](mailto:hamdybakry@med.asu.edu.eg)
 
@@ -42,7 +42,7 @@ ORCID: 0000-0002-1870-7966
 
 **Data extraction and synthesis**: We used a dual independent approach for screening titles and abstracts, full text screening, data extraction and risk of bias assessment. Pairwise meta-analyses were conducted, where two or more studies met methodological criteria for inclusion. The Grading of Recommendations, Assessment, Development and Evaluation approach was used to assess certainty for the pre-specified important outcomes.
 
-**Results**: Fifteen trials (821 women) compared corticosteroids with placebo or no treatment. The effect of corticosteroids is uncertain for the primary outcome i.e., maternal death (risk ratio 0.77, 95% confidence interval 0.25 to 2.38, very low certainty evidence). The effect of corticosteroids is also uncertain for other important outcomes including pulmonary edema, dialysis, liver morbidity, or perinatal death because of very low certainty evidence. Low certainty evidence suggests that corticosteroids have little or no effect on platelet transfusion (risk ratio 0.9821; 95% confidence interval 0.6031 to 1.5994) and may result in a slight reduction in acute renal failure (risk ratio 0.6658; 95% confidence interval 0.3965 to 1.1179)
+**Results**: Fifteen trials (821 women) compared corticosteroids with placebo or no treatment. The effect of corticosteroids is uncertain for the primary outcome i.e., maternal death (risk ratio 0.77, 95% confidence interval 0.25 to 2.38, very low certainty evidence). The effect of corticosteroids is also uncertain for other important outcomes including pulmonary edema, dialysis, liver morbidity (hematoma, rupture, and failure), or perinatal death because of very low certainty evidence. Low certainty evidence suggests that corticosteroids have little or no effect on platelet transfusion (risk ratio 0.9821; 95% confidence interval 0.6031 to 1.5994) and may result in a slight reduction in acute renal failure (risk ratio 0.6658; 95% confidence interval 0.3965 to 1.1179)
 
 **Conclusion**: In women with HELLP syndrome, the effect of corticosteroids vs placebo or no treatment is uncertain for patient relevant outcomes including maternal death, maternal morbidity, platelet transfusion, and perinatal death.
 
@@ -58,7 +58,7 @@ Outcomes assessed using the Grading of Recommendations, Assessment, Development 
 
 # Introduction
 
-The syndrome of hemolysis, elevated liver enzymes and low platelets (HELLP) has an incidence of 2.5 per 1000 singleton deliveries and It complicates 20% of severe pre‐eclampsia. [@lisonkova2020; @haram2009]
+The syndrome of hemolysis, elevated liver enzymes and low platelets (HELLP) has an incidence of 2.5 per 1000 singleton deliveries and it complicates 20% of women diagnosed with severe pre‐eclampsia. [@lisonkova2020; @haram2009]
 
 The pathophysiology of HELLP syndrome that is usually diagnosed between 27 and 37 weeks, is not completely understood. [@wallace2018]
 
