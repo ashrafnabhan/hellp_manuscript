@@ -1,0 +1,376 @@
+---
+format:
+  docx:
+    reference-doc: template.docx
+bibliography: hellp.bib
+csl: bmj.csl
+---
+
+# Corticosteroids for improving outcomes in HELLP syndrome: a systematic review and meta-analysis
+
+# Authors
+
+Asmaa Fahmy Kasem, Hamdy Bakry Alqenawy, Rania Gamal, Marwa Abd Elmawla Elgendi, Yasser M. Elrefaey, Rowyna Hany Mohamed El Helw, Rania Hassan Mostafa Ahmed, Radwa Rasheedy, Mohammad Nahel Sorour, Mohamed Sameh Elsewefy, Maya M. Abdelrazek, Mohamed Yasser Galal Albahaie, Khadiga Mostafa Hussein Hegab, Mohamed Salama, Ashraf Nabhan
+
+# Affiliation
+
+Department of Obstetrics and Gynecology, Faculty of medicine, Ain Shams University, Cairo, Egypt
+
+## Corresponding author
+
+Hamdy Bakry Alqenawy
+
+Address: Department of Obstetrics and Gynecology, Faculty of Medicine, Ain Shams University, Ramses Street, Cairo, Egypt
+
+Email: [hamdybakry\@med.asu.edu.eg](mailto:hamdybakry@med.asu.edu.eg)
+
+ORCID: 0000-0002-1870-7966
+
+**Word count**: xxxx
+
+**Systematic review registration**: Center for Open Science, osf.io/yzku5
+
+# Abstract
+
+**Objectives**: We conducted an update of systematic review to assess the effects of corticosteroids vs placebo or no treatment for improving outcomes in hemolysis, elevated liver enzymes and low platelets (HELLP) syndrome.
+
+**Design**: a systematic review and meta-analysis of randomized controlled trials.
+
+**Data sources**: CENTRAL, MEDLINE/PubMed, Web of Science, and Scopus from the date of inception of the databases to September 20, 2023. The reference lists of included studies and other systematic reviews were thoroughly searched.
+
+**Eligibility criteria**: We included randomized controlled trials that enrolled women with HELLP syndrome, whether antepartum or postpartum, to receive any corticosteroid versus placebo or no treatment. No restrictions on language or date of publication were made.
+
+**Data extraction and synthesis**: We used a dual independent approach for screening titles and abstracts, full text screening, data extraction and risk of bias assessment. Pairwise meta-analyses were conducted, where two or more studies met methodological criteria for inclusion. The Grading of Recommendations, Assessment, Development and Evaluation approach was used to assess certainty for the pre-specified important outcomes.
+
+**Results**: Fifteen trials (821 women) compared corticosteroids with placebo or no treatment. The effect of corticosteroids is uncertain for the primary outcome i.e., maternal death (risk ratio 0.77, 95% confidence interval 0.25 to 2.38, very low certainty evidence). The effect of corticosteroids is also uncertain for other important outcomes including pulmonary edema, dialysis, liver morbidity, or perinatal death because of very low certainty evidence. Low certainty evidence suggests that corticosteroids have little or no effect on platelet transfusion (risk ratio 0.9821; 95% confidence interval 0.6031 to 1.5994) and may result in a slight reduction in acute renal failure (risk ratio 0.6658; 95% confidence interval 0.3965 to 1.1179)
+
+**Conclusion**: In women with HELLP syndrome, the effect of corticosteroids vs placebo or no treatment is uncertain for patient relevant outcomes including maternal death, maternal morbidity, platelet transfusion, and perinatal death.
+
+# Article summary
+
+## Strengths and limitations of this study
+
+We used robust systematic review and meta-analysis methods. We reported on patient relevant outcomes that are critical for decision making.
+
+The available evidence was associated with limitations related to the small sample size of included trials, different timing to initiate corticosteroids administration.
+
+Outcomes assessed using the Grading of Recommendations, Assessment, Development and Evaluation framework were judged to have very low certainty of evidence primarily due to imprecision.
+
+# Introduction
+
+The syndrome of hemolysis, elevated liver enzymes and low platelets (HELLP) has an incidence of 2.5 per 1000 singleton deliveries and It complicates 20% of severe pre‐eclampsia. [@lisonkova2020; @haram2009]
+
+The pathophysiology of HELLP syndrome that is usually diagnosed between 27 and 37 weeks, is not completely understood. [@wallace2018]
+
+The diagnosis of HELLP syndrome depends on laboratory findings of microangiopathic hemolysis, thrombocytopenia, and elevated liver enzymes. Different investigators reported different threshold of hematologic and biochemical values for diagnosis of the syndrome or for determining the prognosis. [@adorno2022; @sibai2004]
+
+The presence of HELLP syndrome is associated with significant maternal mortality and morbidity including acute renal and liver failure. @lisonkova2020
+
+Approximately 70% of pregnancies complicated by HELLP syndrome require preterm delivery, thus increasing perinatal morbidity and mortality. @sibai2004
+
+Observational studies suggested that steroid treatment in HELLP syndrome may improve disordered maternal hematological and biochemical features and perhaps perinatal mortality and morbidity. Clinical trials examined the effects of corticosteroids for the treatment of maternal HELLP syndrome. Various regimens have been reported using prednisolone, dexamethasone, or betamethasone. [@haram2009; @sibai2004; @sibai2005; @magann2017]
+
+Current practice and clinical guidelines require an updated evidence synthesis because the available synthesis of evidence was published in 2010 [@Woudstra2010], new studies have been published, and the clinical question remains relevant to decision makers.
+
+We conducted this systematic review to update the synthesized evidence regrading the effects of corticosteroids versus placebo or no treatment for improving outcomes in women with HELLP syndrome.
+
+# Methods
+
+## Protocol and registration
+
+This systematic review was conducted following the methodological standards of Cochrane handbook. [@cochrane2023] We prospectively registered the protocol in Open Science Platform. The full text of the protocol is available in an open access registry and as an online supplementary file. We reported the review using the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) standards. [@page2021]
+
+## Eligibility criteria
+
+We included published randomized controlled trials that recruited women with HELLP syndrome, confirmed by objective testing. We included studies comparing corticosteroids versus placebo or no treatment. The primary outcome measure was maternal death. Other outcomes included pulmonary edema; acute renal failure; dialysis, liver morbidity (hematoma, ruptured liver, and failure), platelet transfusion, and perinatal death.
+
+## Information sources
+
+A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). The detailed exact strategy adapted for each database is provided in a supplementary file and is also available an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
+
+## Study selection
+
+All reports identified in the databases were imported to Bibtex library using Jabref version 5. After removing duplicates, two authors independently screened all titles and abstracts for eligibility. We retrieved and assessed the full text of all reports that potentially met our eligibility criteria during screening. Two authors independently assessed each full-text article. Disagreements regarding trial eligibility was resolved by consensus and finally resolved by a third author (AN).
+
+## Data collection process
+
+For eligible studies, two authors extracted the data in duplicates using an offline electronic form. We resolved discrepancies through discussion. Extracted data were transcribed to a spreadsheet and checked for accuracy. We contacted authors of the original reports to provide further details regarding unclear or missing data.
+
+## Data items
+
+Extracted data included study design, sample size, description of included participants, description of the intervention, outcomes, trial registration, and funding sources, and country.
+
+## Study risk of bias assessment
+
+Two authors independently used the Risk of Bias 2 (RoB 2) tool to assess the risk of bias of study results contributing information to each of the outcomes specified for inclusion in the summary of findings tables.
+
+We assessed the following risk of bias domains as outlined in Cochrane Handbook for Systematic Reviews of Interventions: 1) risk of bias arising from the randomization process; 2) risk of bias due to deviations from the intended interventions (effect of assignment to intervention); 3) risk of bias due to missing outcome data; 4) risk of bias in measurement of the outcome; and 5) risk of bias in selection of the reported result. Each domain was judged as being at "low risk of bias", "some concerns", or "high risk of bias".
+
+RCTs with "low risk of bias" in all domains were classified as being at overall "low risk of bias". RCTs with one domain judged to be at "some concerns", but no domain judged to be at "high risk of bias", were classified as being at overall "some concerns" of risk of bias. RCTs were classified as being at overall "high risk of bias" if at least one domain was judged as being at "high risk of bias". However, if a trial was judged to be at "some concerns" due to risk of bias for multiple domains, it was judged as being at overall "high risk of bias" if the assessors judged that the multiple concerns amounted to a serious risk of bias. In case of discrepancies among their judgments and inability to reach consensus, we consulted the senior author to reach a final decision.
+
+## Effect measures
+
+For dichotomous data, we presented results as summary risk ratio (RR) with 95% confidence intervals (CI). None of the outcomes of interest were meta‐analysed as a continuous variable. The unit of analysis was the individual participant. We used a complete case approach for analysis. When analyzing data related to participants who were reported as not compliant, we adhered to the principles of intention-to-treat analysis. 
+
+## Synthesis methods
+
+Fixed-effect meta-analysis was performed to combine data of trials that are judged to be sufficiently similar in terms of intervention, populations, and methods. We planned to investigate substantial statistical heterogeneity, defined as I² statistic ≥ 50% or P \<0.1.
+
+We performed the planned subgroup analysis by gestational age at enrollment (ante- vs postpartum) and by type of corticosteroids. We assessed subgroup differences by interaction tests. Results of the subgroup analyses were reported by mentioning the Chi² statistic and P value, and the interaction test I² value.
+
+Sensitivity analysis was performed to explore robustness of pooled estimate using outcome data from trials with a low risk of bias.
+
+Synthesis was performed using RStudio 2023.06.1 Build 524 (MacOS, Apple Silicon version), R 4.3.1 (2023-06-16) [@base] and R package meta version 6.5. [@meta]
+
+## Reporting bias assessment
+
+We explored whether the study was included in a trial registry and whether a protocol was available. We planned to examine funnel plots to assess the potential for publication bias if we found 10 or more studies reporting on a particular outcome.
+
+## Certainty assessment
+
+We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to create the Summary of findings table. @grade2013 Briefly, GRADE uses study limitations, consistency of effect, imprecision, indirectness, and publication bias to assess the certainty of evidence for each outcome. A summary of the intervention effect and a measure of certainty was produced using the GRADEpro GDT software @gradepro2022 for the prespecified important outcomes: maternal death, pulmonary edema, renal failure, dialysis, liver morbidity, platelet transfusion, and perinatal death. One author (A.N.) conducted GRADE assessments and the decisions on downgrading. This was discussed for final approval by all authors.
+
+# Results
+
+## Study selection
+
+Bibliographic database search identified 154 records. After removing duplicates, 86 titles and abstracts were screened. Twenty four titles required further assessment. One is an an ongoing CTRI/2020/12/029730 and the full-text reports of twenty three published reports were assessed using the predefined eligibility criteria. We excluded two reports identified in our search. One study did not meet our inclusion criteria for participants. It enrolled women with low platelets not HELLP syndrome. The other study was terminated because of the inability to recruit the required sample. Fifteen studies (21 reports published between 1994 and 2019) including 821 women were found eligible @fig-prisma.
+
+![PRISMA flow diagram. PRISMA, Preferred Reporting Items for a Systematic review and Meta-analysis](prisma.jpeg){#fig-prisma}
+
+## Study characteristics
+
+We summarized the characteristics of the included studies in @tbl-1.
+
+The fifteen included trials recruited 821 women with HELLP syndrome. Criteria for recruitment in five trials [@Borekci2008; @DuPlessis2010; @Fonseca2005; @Magann1994; @VanRunnardHeimel2006; @Yalcin1998] were a diagnosis of HELLP class one or two on the Mississippi HELLP classification system. One trial exclusively recruited women with class 1 @Fonseca2019. One trial recruited women with class 2 and 3 @Magann1994c. Three studies [@Caliskan2010; @Ozer2009; @VigilDeGracia1997] recruited women with HELLP classes 1, 2, and 3. One study @Katz2008 included women with partial HELLP (1 or more parameters abnormal) (61/105 \[58.1%\]) and complete HELLP (all parameters abnormal) (44/105 \[41.9%\]); class 1 and 2 combined subset accounted for 85.7% of participants with complete HELLP. Three studies [@Bouchnak2005 ; @kadanali1997 ; @Mould2006] did not report explicitly on the class of HELLP syndrome.
+
+Eleven trials administered dexamethasone vs placebo or no treatment [@Bouchnak2005; @DuPlessis2010; @Fonseca2005; @Fonseca2019; @kadanali1997; @Katz2008; @Magann1994; @Magann1994c; @Mould2006; @VigilDeGracia1997; @Yalcin1998], two trials administered betamethasone [@Caliskan2010; @Ozer2009], and one trial administered prednisolone @VanRunnardHeimel2006. One multiple arms trial compared dexamethasone vs betamethasone vs no treatment. @Borekci2008
+
+Corticosteroids administration commenced after delivery in eight trials [@Borekci2008; @Bouchnak2005; @DuPlessis2010; @Katz2008; @Magann1994; @Mould2006; @VigilDeGracia1997; @Yalcin1998], before delivery in five trials [@Caliskan2010; @kadanali1997; @Magann1994c; @Ozer2009; @VanRunnardHeimel2006], and in two trials [@Fonseca2005; @Fonseca2019] treatment commenced according to timing of recruitment whether before or after delivery.
+
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Study ID (Country)             | Treatment commenced       | Sample size | Corticosteroids                           | HELLP syndrome class                                                                       | Corticosteroids regimen                                                                                                                                                                                                                                                                                                                                                                                       |
++================================+===========================+=============+===========================================+============================================================================================+===============================================================================================================================================================================================================================================================================================================================================================================================================+
+| Bouchnak 2005 (Tunisia)        | Postpartum                | 20          | Dexamethasone                             | Not clearly defined                                                                        | Postpartum women in the experimental group received dexamethasone, 12 mg every 12h for 2 doses, started immediately following delivery.                                                                                                                                                                                                                                                                       |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fonseca 2005 (Colombia)        | Antepartum and Postpartum | 132         | Dexamethasone                             | Class 1 (38%) and 2 (62%)                                                                  | Pregnant women in the experimental group received 10 mg doses of dexamethasone intravenously every 12 hours until delivery and 3 additional doses after delivery. Puerperal women received 3 10-mg doses after delivery.                                                                                                                                                                                      |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Fonseca 2019 (Colombia)        | Antepartum and Postpartum | 87          | Dexamethasone                             | Class 1                                                                                    | Pregnant women in the experimental group received 10 mg doses of dexamethasone, intravenously, every 12 h until delivery; and 3 additional doses after delivery. Postpartum women received three 10 mg doses after delivery.                                                                                                                                                                                  |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Kadanali 1997 (Turkey)         | Antepartum                | 26          | Dexamethasone                             | Not clearly defined                                                                        | Pregnant women in the experimental group received a total of four doses of intravenous dexamethasone over 36 hours separated by 12-hour intervals. The first two doses were 10 mg each and the second two doses were 5 mg each.                                                                                                                                                                               |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Katz 2008 (Brazil)             | Postpartum                | 105         | Dexamethasone                             | Partial HELLP and complete HELLP. Class 1 and 2 combined subset of complete HELLP is 85.7% | Postpartum women in the experimental group received 10 mg doses of dexamethasone every 12 hours for 4 days. Extra doses may have been administered to an undisclosed number of women with deteriorated status.                                                                                                                                                                                                |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Magann 1994 (USA)              | Antepartum                | 25          | Dexamethasone                             | Class 2 and 3                                                                              | Pregnant women in the experimental group received 10-mg doses of dexamethasone intravenously every 12 hours until delivery.                                                                                                                                                                                                                                                                                   |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Magann 1994 (USA)              | Postpartum                | 40          | Dexamethasone                             | Class 1 and 2                                                                              | Postpartum women in the experimental group received a total of four doses of dexamethasone separated by 12-hour intervals starting immediately after delivery and throughout the following 36 hours. The first two doses were 10-mg each and the second two doses were 5-mg each.                                                                                                                             |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Mould 2006 (South Africa)      | Postpartum                | 37          | Dexamethasone                             | Not clearly defined                                                                        | Postpartum women in the experimental group received 10 mg dexamethasone every 12 hours until platelets recovered (\>100,000 cells/mm3).                                                                                                                                                                                                                                                                       |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Ozer 2009 (Turkey)             | Antepartum                | 60          | Betamethasone                             | Class 1, 2 and 3                                                                           | Pregnant women in the Intervention group recieved 12 mg betamethasone IM every 12 hours until symptoms and signs in remission                                                                                                                                                                                                                                                                                 |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| van Runnard 2006 (Netherlands) | Antepartum                | 32          | Prednisolone                              | Class 1 and 2                                                                              | Pregnant women in the interventions group recieved prednisolone IV, 50 mg over 12 hours in 100 ml of sodium chloride, for 2 days after delivery or for up to 14 days in antenatal period, then tapering off (4 day oral tapering protocol of 50, 20, 10 and 5 mg of medication). If women delivered during the tapering period a stress dose was given during and after delivery every 12 hours for 48 hours) |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Vigil-De Gracia 1997 (Mexico)  | Postpartum                | 34          | Dexamethasone                             | Classes 1, 2, and 3                                                                        | Postpartum women in the intervention group recieved 10 mg IV dexamethasone, repeated at 12 and 24 hrs (total 30 mg)                                                                                                                                                                                                                                                                                           |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Yalcin 1998 (Turkey)           | Postpartum                | 30          | Dexamethasone                             | Class 1 and 2                                                                              | Postpartum women in the intervention group received 10 mg dexamethasone IV, then 10 mg at 12 hrs, and 5 mg at 24 and 36 hrs (total dose over 36 hrs = 30 mg)                                                                                                                                                                                                                                                  |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Du Plessis 2010 (South Africa) | Postpartum                | 68          | Dexamethasone                             | Class 1 and 2                                                                              | Postpartum women in the intervention group received dexamethasone 24 mg on day 1, 16 mg on day2 and 12 mg on day 3, intravenously                                                                                                                                                                                                                                                                             |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Borekci 2008 (Turkey)          | Postpartum                | 60          | Dexamethasone vs Betamethasone vs placebo | Class 1 and 2                                                                              | The first group was given 10 mg dexamethasone intravenously three times with a 12-hour interval for a total dose of 30 mg. The second group was given 12 mg betamethasone intramuscularly twice with a 24-hour interval. It was administered at a total dose of 24 mg.                                                                                                                                        |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Caliskan 2010 (Turkey)         | Antepartum and Postpartum | 65          | Betamethasone                             | Class 1, 2 and 3                                                                           | Pregnant women in the Intervention group received 24 mg betamethasone intramuscularly  before cesarean delivery, and was repeated 24 hours later.                                                                                                                                                                                                                                                             |
++--------------------------------+---------------------------+-------------+-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+: Characteristics of included studies {#tbl-1}
+
+## Risk of bias in studies
+
+We assessed the risk of bias for the included RCTs contributing results to our outcomes using the RoB 2 tool. The overall risk of bias for all study results per outcome are available in supplementary file 2.
+
+## Syntheses of results
+
+Maternal death
+
+Six trials (449 women) reported maternal death. The risk ratio (RR) was 0.77 (95% confidence intervals (CI) 0.25 to 2.38, @fig-md). The effect of any corticosteroid vs placebo or no treatment is uncertain. We downgraded the certainty of the evidence to very low due to extremely serious imprecision, @tbl-grade.
+
+The subgroup analysis did not show significant differences among groups whether by the timing of corticosteroid administration (test for subgroup differences P = 0.79) or by the type of corticosteroid (test for subgroup differences P = 0.60).
+
+Sensitivity analysis to explore robustness of pooled estimate for maternal death, using outcome data from trials with a low risk of bias showed results similar to primary analysis with a RR 0.87 (95% CI 0.26 to 2.92) or by including studies with zero events with RR 0.79 (95% CI 0.27 to 2.32).
+
+![Maternal death: Corticosteroids vs placebo or no treatment](fig2.jpg){#fig-md}
+
+Pulmonary edema
+
+The effect of any corticosteroid vs placebo or no treatment is very uncertain. Four trials (381 women) reported pulmonary edema. The risk ratio was 0.70 (95% confidence interval 0.23 to 2.09), @fig-pe. We downgraded the certainty of the evidence to very low due to extremely serious imprecision.
+
+![Acute pulmonary edema: Corticosteroids vs placebo or no treatment](fig3.jpg){#fig-pe}
+
+Renal failure
+
+Five trials (406 women) reported acute renal failure. Corticosteroids may result in a slight reduction in acute renal failure. The risk ratio was 0.6658 (95% CI 0.3965 to 1.1179), @fig-rf. The certainty of evidence was low due to very serious imprecision.
+
+![Acute renal failure: Corticosteroids vs placebo or no treatment](fig4.jpg){#fig-rf}
+
+Dialysis
+
+The evidence is very uncertain about the effect of corticosteroids on dialysis. The need for dialysis was reported in one study (60 women). The risk ratio was 3 (95% CI 0.1271 to 70.7833). The certainty of evidence was downgraded to very low due to extremely serious imprecision.
+
+Liver morbidity (hematoma, rupture, or failure)
+
+The evidence is very uncertain about the effect of corticosteroids on liver morbidity vs placebo or no treatment. Based on data from two studies (91 women), the risk ratio was 0.2171 (95% CI 0.0258 to 1.8257). We downgraded the certainty of evidence to very low due to extremely serious imprecision.
+
+Platelet transfusion
+
+Based on data from 219 women in two studies, corticosteroids have little or no difference in platelet transfusion (RR 0.9821; 95% CI 0.6031 to 1.5994). We downgraded the certainty of evidence to low due to very serious imprecision.
+
+Perinatal death
+
+The evidence is very uncertain about the effect of corticosteroids on perinatal death. Based on data from two studies (58 women), the risk ratio was 0.6372 (95% CI 0.2062 to 1.9693). The certainty of evidence was very low due to extremely serious imprecision.
+
+## Risk of reporting biases in syntheses
+
+The possibility of reporting bias could not be excluded, as not all trials reported all relevant outcomes. The planned funnel plots were not created because we did not include 10 or more studies reporting on any of the outcomes.
+
+## Certainty of evidence
+
+The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. We downgraded the certainty of the evidence three levels to very low due to extremely serious imprecision. The 95% CI is very wide and includes both large benefit and large harm. The two boundaries of CI suggest very different inferences.
+
+Corticosteroids, compared with placebo or no treatment, may result in a slight reduction in acute renal failure. We downgraded the certainty of the evidence two levels to low due to very serious imprecision. The 95% CI overlaps no effect and includes both large benefit.
+
+Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion. We downgraded the certainty of evidence two levels to low due to very serious imprecision. The pooled estimate of the risk ratio suggests no difference and the CI includes appreciable benefit and harm.
+
+A summary of findings table presents the same information as the text above, with footnotes explaining judgments, @tbl-grade.
+
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Outcomes             | Number of participants\ | Certainty of the evidence\ | Relative effect\    | Anticipated absolute effects |                                     |
+|                      | (studies)\              | (GRADE)                    | (95% CI)            |                              |                                     |
+|                      | Follow-up               |                            |                     |                              |                                     |
++======================+=========================+============================+=====================+==============================+=====================================+
+|                      |                         |                            |                     | Risk with placebo            | Risk difference with Corticosteroid |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Maternal death       | 449\                    | ⨁◯◯◯\                      | **RR 0.7700**\      | 31 per 1,000                 | **7 fewer per 1,000**\              |
+|                      | (6 RCTs)                | Very low^a^                | (0.2492 to 2.3799)  |                              | (24 fewer to 43 more)               |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Acute renal failure  | 406\                    | ⨁⨁◯◯\                      | **RR 0.6658**\      | 144 per 1,000                | **48 fewer per 1,000**\             |
+|                      | (5 RCTs)                | Low^b^                     | (0.3965 to 1.1179)  |                              | (87 fewer to 17 more)               |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Pulmonary edema      | 381\                    | ⨁◯◯◯\                      | **RR 0.6975**\      | 43 per 1,000                 | **13 fewer per 1,000**\             |
+|                      | (4 RCTs)                | Very low^a^                | (0.2323 to 2.0944)  |                              | (33 fewer to 47 more)               |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Dialysis             | 60\                     | ⨁◯◯◯\                      | **RR 3.0000**\      | 0 per 1,000                  | **0 fewer per 1,000**\              |
+|                      | (1 RCT)                 | Very low^a^                | (0.1271 to 70.7833) |                              | (0 fewer to 0 fewer)                |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Liver morbidity      | 91\                     | ⨁◯◯◯\                      | **RR 0.2171**\      | 87 per 1,000                 | **68 fewer per 1,000**\             |
+|                      | (2 RCTs)                | Very low^a^                | (0.0258 to 1.8257)  |                              | (85 fewer to 72 more)               |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Platelet transfusion | 219\                    | ⨁⨁◯◯\                      | **RR 0.9821**\      | 225 per 1,000                | **4 fewer per 1,000**\              |
+|                      | (2 RCTs)                | Low^c^                     | (0.6031 to 1.5994)  |                              | (89 fewer to 135 more)              |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+| Perinatal death      | 58\                     | ⨁◯◯◯\                      | **RR 0.6372**\      | 233 per 1,000                | **85 fewer per 1,000**\             |
+|                      | (2 RCTs)                | Very low^a^                | (0.2062 to 1.9693)  |                              | (185 fewer to 226 more)             |
++----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
+
+: Summary of Findings: Corticosteroids compared to placebo for women with HELLP syndrome {#tbl-grade}
+
+The risk in the intervention group (and its 95% confidence interval) is based on the assumed risk in the comparison group and the relative effect of the intervention (and its 95% CI).
+
+CI: confidence interval; RR: risk ratio; HELLP: Hemolysis, Elevated Liver enzymes, Low Platelets
+
+GRADE Working Group grades of evidence
+
+High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+
+Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+
+Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+
+Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.
+
+Explanations
+
+a.  CI is very wide and includes both large benefit and large harm. The two boundaries of CI suggest very different inferences. We rated down three levels for imprecision.
+
+b.  CI overlaps no effect and includes both large benefit and small harm. We rated down two levels for imprecision.
+
+c.  The pooled estimate of the risk ratio suggests no difference and the CI includes appreciable benefit and harm.
+
+# Discussion
+
+We conducted this systematic review and meta-analysis to assess the effects of corticosteroids for improving outcomes in women with HELLP syndrome. This updated evidence synthesis is required for the development of the National Guideline for the management of severe preeclampsia.
+
+## Summary of the evidence
+
+There was no clear evidence of any treatment effect of corticosteroids on substantive clinical outcomes. The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion but may may result in a slight reduction in acute renal failure.
+
+## Evidence in context
+
+The results of this up-to-date review are consistent with the findings reported previously @Woudstra2010. They concluded that there was insufficient evidence to support the administration of corticosteroids to women with HELLP syndrome.
+
+In this review, we only included randomized controlled trials (RCTs) for the meta-analysis. Observational studies were excluded to ensure reliability of the results by minimizing the risk of bias due to unmeasured confounders. A major issue of observational evidence is that it is known to have limited internal validity as it is subject to both bias and confounding. Overall, observational study designs are not the most appropriate to assess the causal relationship between an intervention and an outcome as several characteristics might differ or might change over time between the different intervention groups. So, the inclusion of observational studies in a meta-analysis might introduce bias in the summary effect. Potential biases are likely to be greater for observational studies compared with randomized trials when evaluating the effects of interventions. Observational studies of interventions vary in their ability to estimate a causal effect. Biases affecting pbservational studies of interventions vary depending on the features of the studies. Published reviews @mao2015 that included observational studies have failed to address potential confounders and the likelihood of increased heterogeneity resulting from residual confounding and from other biases that vary across studies.
+
+Our strategy aimed to study the effectiveness of corticosteroids for HELLP syndrome regarding critical maternal and perinatal outcomes instead of surrogate outcomes, which may provide insights into disease mechanisms rather than reflecting clinically meaningful outcomes relevant to decision making. Surrogate outcome measures, such as laboratory results are potentially misleading and should be avoided or interpreted with caution because they may not predict clinically important outcomes accurately. Surrogate outcomes may provide information on how a treatment might work but not whether it actually does work. Many interventions reduce the risk for a surrogate outcome but have no effect or have harmful effects on clinically relevant outcomes, and some interventions have no effect on surrogate measures but improve clinical outcomes @Bucher2015; @cochrane2023ch3. Despite the potential appeal of surrogates, for example the change in platelet count and liver enzymes, these laboratory markers might not reflect the actual effects that corticosteroids have on critical outcomes of women with HELLP syndrome. Superiority on a surrogate end point may not translate into benefits for patients. Further, the use of surrogate end points means that decision makers must extrapolate from these findings to estimate the true benefits to patients. This results in uncertainty about the effect of corticosteroids in HELLP syndrome. Published synthesized evidence @mao2015 that included surrogate outcomes without downgrading the certainty of evidence for indirectness would definitely provide misleading implications for practice. It may not be justifiable or acceptable to use surrogate outcomes for a review when validated or evaluated true endpoints are available @tufanaru2016.
+
+We also focused on studies that compared corticosteroids to placebo or standard care. Comparing various types of corticosteroids, which differ in their relative potency and duration of action, to each other would not be clinically useful if none of them are superior to placebo. It is neither intuitive nor correct to compare one corticosteroid to another when evidence fails to show a difference between any corticosteroid vs placebo or no treatment. Investigators @basaran2012 raised serious doubts regarding the credibility of the subgroup analysis results of the Cochrane review @Woudstra2010 and the application of these subgroup results into clinical practice.
+
+I*n summary,* our methodology minimized bias through strict inclusion of randomized controlled trials, established the class effect first before agent comparisons, and emphasized outcomes of greatest clinical relevance. This approach provided the most robust and applicable evidence for clinical decision making.
+
+The results of our up-to-date synthesis of available evidence provide a rigorous evidence base for trustworthy clinical practice guidelines for the management of HELLP syndrome. Currently available guidelines unanimously do not recommend corticosteroids for treatment of hemolysis, elevated liver enzymes, low platelets syndrome until they have been proven to decrease maternal morbidity [@gestatio2020; @bonnet2021; @who2011; @who2018; @nice2019; @magee2014; @lowe2015].
+
+## Limitations
+
+A limitation of the evidence was the limited number of outcomes reported in included trials. Most included trials reported surrogate laboratory results. The possibility of reporting bias could not be excluded, as not all trials reported all relevant outcomes. Patient relevant outcomes in HELLP syndrome do not require exceptional training, expensive tools, or long follow up. It does not seem comprehensible to conduct a trial in such a critical condition without reporting maternal death or morbidity.
+
+## Conclusions
+
+In women with HELLP syndrome, the effect of corticosteroids versus placebo or no treatment is uncertain for critical patient relevant outcomes. The currently available evidence does not support or refute the practice of corticosteroid administration for treating HELLP syndrome.
+
+# Funding statement
+
+This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors
+
+# Acknowledgments
+
+We acknowledge the effort and the spirit of goodwill of xx for their contribution to this work.
+
+# Author contributions
+
+AN conceived the idea for this review and designed the review methods. xx, xx, xx collaborated in searching, screening, selecting studies, data extraction and synthesis. AN wrote the first draft of the manuscript and xx, xx, xx, xx, reviewed the manuscript. All authors read and approved the final version of the manuscript.
+
+# Availability of data and materials
+
+All data relevant to this study are publicly available. Data, analysis script and materials related to this study are publicly available on the Open Science Framework at https://osf.io/9vwdq. The study protocol and materials were registered on 18 September 2023 at https://osf.io/yzku5. To facilitate reproducibility, this manuscript was written by interleaving regular prose and analysis code using R Markdown.
+
+# Ethics approval and consent to participate
+
+Not applicable
+
+# Consent for publication
+
+Not applicable
+
+# Competing interests
+
+None declared.
+
+# Supplemental file
+
+Supplemental file 1: Systematic review protocol
+
+Supplemental file 2: PRISMA checklist
+
+Supplemental file 3: Detailed search strategy
+
+Supplemental file 4: Data and analysis code
+
+# Figure legend
+
+Figure 1 PRISMA flow diagram. PRISMA, Preferred Reporting Items for a Systematic review and Meta-analysis
+
+Figure 2 Maternal death: Corticosteroids vs placebo or no treatment
+
+Figure 3 Acute pulmonary edema: Corticosteroids vs placebo or no treatment
+
+Figure 4 Acute renal failure: Corticosteroids vs placebo or no treatment
+
+# References

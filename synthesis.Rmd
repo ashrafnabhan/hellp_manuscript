@@ -1,0 +1,145 @@
+---
+title: "Corticosteroids for HELLP syndrome"
+subtitle: "Data synthesis script"
+author: "Ashraf Nabhan"
+output: html_document
+date: "2023-09-26"
+always_allow_html: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(comment=NA)
+knitr::opts_chunk$set(echo=FALSE)
+knitr::opts_chunk$set(out.width = '110%')
+library(meta)
+library(readxl)
+library(PRISMA2020)
+library(knitr)
+library(rsvg)
+library(DiagrammeR)
+library(tidyverse) 
+library(DiagrammeRsvg)
+library(htmlwidgets)
+library(webshot)
+```
+
+# PRISMA Flow diagram
+
+```{r warning=FALSE}
+cort = read.csv("cort.csv") 
+cort = PRISMA_data(cort) 
+pfd = PRISMA_flowdiagram(data = cort,other = F,previous = F,fontsize = 12)
+pfd
+```
+
+
+# Synthesis
+
+## Import dataset
+
+```{r}
+raw.data = read_excel("hellp_data.xlsx") 
+attach(raw.data)
+```
+
+## Pre-specified outcomes
+
+1.  Death
+2.  Liver morbidity
+3.  Pulmonary edema
+4.  Renal failure
+5.  Dialysis
+6.  Platelet transfusion
+7.  Perinatal death
+
+## Death
+
+Pairwise meta-analysis
+
+```{r}
+bin = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Maternal death")) 
+summary(bin) 
+forest.meta(bin,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+Subgroup analysis: Antepartum vs postpartum vs mixed
+
+```{r}
+subgr = update.meta(bin,subgroup = factor) 
+forest.meta(subgr,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm",col.subgroup = "black", fontsize = 7)
+```
+
+Subgroup analysis: Dexa vs Beta vs Prednisolone
+
+```{r}
+subgrc = update.meta(bin,subgroup = corticosteroid) 
+forest.meta(subgrc,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm",col.subgroup = "black", fontsize = 7)
+```
+
+Sensitivity analysis: Low RoB
+
+```{r}
+sensit = update.meta(bin,subset = c(outcome =="Maternal death" & RoB=="low"))
+forest.meta(sensit,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+Sensitivity analysis: Studies with zero events included
+
+```{r}
+sensit = update.meta(bin,subset = outcome =="Maternal death", allstudies = T)
+forest.meta(sensit,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+Funnel plot
+
+```{r}
+funnel(x = bin)
+```
+
+## Pulmonary edema
+
+```{r}
+binpe = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Maternal pulmonary edema")) 
+summary(binpe) 
+forest.meta(binpe,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+## Renal failure
+
+```{r}
+binrf = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Maternal renal failure")) 
+summary(binrf)
+forest.meta(binrf,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+## Dialysis
+
+```{r}
+bindia = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(zero =="F" & outcome =="Dialysis")) 
+summary(bindia)
+forest.meta(bindia,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+## Liver morbidity
+
+```{r}
+binhep = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Maternal liver morbidity")) 
+summary(binhep) 
+forest.meta(binhep,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+## Platelet transfusion
+
+```{r}
+binpt = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Platelet transfusion")) 
+summary(binpt) 
+forest.meta(binpt,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
+
+## Perinatal death
+
+```{r}
+binpd = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Perinatal death")) 
+summary(binpd)
+forest.meta(binpd,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
+```
