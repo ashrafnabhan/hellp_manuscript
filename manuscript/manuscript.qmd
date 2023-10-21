@@ -196,19 +196,19 @@ The subgroup analysis did not show significant differences among groups whether 
 
 Sensitivity analysis to explore robustness of pooled estimate for maternal death, using outcome data from trials with a low risk of bias showed results similar to primary analysis with a RR 0.87 (95% CI 0.26 to 2.92) or by including studies with zero events with RR 0.79 (95% CI 0.27 to 2.32).
 
-![Maternal death: Corticosteroids vs placebo or no treatment](fig2.jpg){#fig-md}
+![Maternal death: Corticosteroids vs placebo or no treatment](images/fig2.jpg){#fig-md}
 
 Pulmonary edema
 
 The effect of any corticosteroid vs placebo or no treatment is very uncertain. Four trials (381 women) reported pulmonary edema. The risk ratio was 0.70 (95% confidence interval 0.23 to 2.09), @fig-pe. We downgraded the certainty of the evidence to very low due to extremely serious imprecision.
 
-![Acute pulmonary edema: Corticosteroids vs placebo or no treatment](fig3.jpg){#fig-pe}
+![Acute pulmonary edema: Corticosteroids vs placebo or no treatment](images/fig3.jpg){#fig-pe}
 
 Renal failure
 
 Five trials (406 women) reported acute renal failure. Corticosteroids may result in a slight reduction in acute renal failure. The risk ratio was 0.6658 (95% CI 0.3965 to 1.1179), @fig-rf. The certainty of evidence was low due to very serious imprecision.
 
-![Acute renal failure: Corticosteroids vs placebo or no treatment](fig4.jpg){#fig-rf}
+![Acute renal failure: Corticosteroids vs placebo or no treatment](images/fig4.jpg){#fig-rf}
 
 Dialysis
 
