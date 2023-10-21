@@ -62,15 +62,13 @@ The syndrome of hemolysis, elevated liver enzymes and low platelets (HELLP) has 
 
 The pathophysiology of HELLP syndrome that is usually diagnosed between 27 and 37 weeks, is not completely understood. [@wallace2018]
 
-The diagnosis of HELLP syndrome depends on laboratory findings of microangiopathic hemolysis, thrombocytopenia, and elevated liver enzymes. Different investigators reported different threshold of hematologic and biochemical values for diagnosis of the syndrome or for determining the prognosis. [@adorno2022; @sibai2004]
+The diagnosis depends on laboratory findings of microangiopathic hemolysis, thrombocytopenia, and elevated liver enzymes. Different investigators reported different threshold of hematologic and biochemical values for diagnosis of the syndrome or for determining the prognosis. [@adorno2022; @sibai2004]
 
-The presence of HELLP syndrome is associated with significant maternal mortality and morbidity including acute renal and liver failure. @lisonkova2020
-
-Approximately 70% of pregnancies complicated by HELLP syndrome require preterm delivery, thus increasing perinatal morbidity and mortality. @sibai2004
+The presence of HELLP syndrome is associated with significant maternal mortality and morbidity including acute renal and liver failure. @lisonkova2020 and approximately 70% of pregnancies complicated by HELLP syndrome require preterm delivery, thus increasing perinatal morbidity and mortality. @sibai2004
 
 Observational studies suggested that steroid treatment in HELLP syndrome may improve disordered maternal hematological and biochemical features and perhaps perinatal mortality and morbidity. Clinical trials examined the effects of corticosteroids for the treatment of maternal HELLP syndrome. Various regimens have been reported using prednisolone, dexamethasone, or betamethasone. [@haram2009; @sibai2004; @sibai2005; @magann2017]
 
-Current practice and clinical guidelines require an updated evidence synthesis because the available synthesis of evidence was published in 2010 [@Woudstra2010], new studies have been published, and the clinical question remains relevant to decision makers.
+Current practice and clinical guidelines require an updated evidence synthesis because the latest available synthesis was published in 2010 [@Woudstra2010], new studies have been published, and the clinical question remains relevant to decision makers.
 
 We conducted this systematic review to update the synthesized evidence regrading the effects of corticosteroids versus placebo or no treatment for improving outcomes in women with HELLP syndrome.
 
@@ -78,7 +76,7 @@ We conducted this systematic review to update the synthesized evidence regrading
 
 ## Protocol and registration
 
-This systematic review was conducted following the methodological standards of Cochrane handbook. [@cochrane2023] We prospectively registered the protocol in Open Science Platform. The full text of the protocol is available in an open access registry and as an online supplementary file. We reported the review using the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) standards. [@page2021]
+This systematic review was conducted following the methodological standards of Cochrane Handbook. [@cochrane2023] We prospectively registered the protocol in Open Science Platform. The full text of the protocol is available in an open access registry and as an online supplementary file. We reported the review using the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) standards. [@page2021]
 
 ## Eligibility criteria
 
@@ -86,7 +84,7 @@ We included published randomized controlled trials that recruited women with HEL
 
 ## Information sources
 
-A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). The detailed exact strategy adapted for each database is provided in a supplementary file and is also available an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
+A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). The detailed exact strategy adapted for each database is provided in a supplementary file and is also available in an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
 
 ## Study selection
 
@@ -94,7 +92,7 @@ All reports identified in the databases were imported to Bibtex library using Ja
 
 ## Data collection process
 
-For eligible studies, two authors extracted the data in duplicates using an offline electronic form. We resolved discrepancies through discussion. Extracted data were transcribed to a spreadsheet and checked for accuracy. We contacted authors of the original reports to provide further details regarding unclear or missing data.
+For eligible studies, two authors extracted the data in duplicates using an offline electronic form. We resolved discrepancies through discussion. Extracted data were transcribed to a spreadsheet and checked for accuracy. We contacted authors of the original reports, if needed, to provide details regarding unclear or missing data.
 
 ## Data items
 
@@ -102,15 +100,15 @@ Extracted data included study design, sample size, description of included parti
 
 ## Study risk of bias assessment
 
-Two authors independently used the Risk of Bias 2 (RoB 2) tool to assess the risk of bias of study results contributing information to each of the outcomes specified for inclusion in the summary of findings tables.
+Two authors independently used the Risk of Bias 2 (RoB 2) tool to assess the risk of bias of study results contributing information to each of the outcomes specified for inclusion in the Summary of Findings table.
 
 We assessed the following risk of bias domains as outlined in Cochrane Handbook for Systematic Reviews of Interventions: 1) risk of bias arising from the randomization process; 2) risk of bias due to deviations from the intended interventions (effect of assignment to intervention); 3) risk of bias due to missing outcome data; 4) risk of bias in measurement of the outcome; and 5) risk of bias in selection of the reported result. Each domain was judged as being at "low risk of bias", "some concerns", or "high risk of bias".
 
-RCTs with "low risk of bias" in all domains were classified as being at overall "low risk of bias". RCTs with one domain judged to be at "some concerns", but no domain judged to be at "high risk of bias", were classified as being at overall "some concerns" of risk of bias. RCTs were classified as being at overall "high risk of bias" if at least one domain was judged as being at "high risk of bias". However, if a trial was judged to be at "some concerns" due to risk of bias for multiple domains, it was judged as being at overall "high risk of bias" if the assessors judged that the multiple concerns amounted to a serious risk of bias. In case of discrepancies among their judgments and inability to reach consensus, we consulted the senior author to reach a final decision.
+RCTs with "low risk of bias" in all domains were classified as being at overall "low risk of bias". RCTs with one domain judged to be at "some concerns", but no domain judged to be at "high risk of bias", were classified as being at overall "some concerns" of risk of bias. RCTs were classified as being at overall "high risk of bias" if at least one domain was judged as being at "high risk of bias". However, if a trial was judged to be at "some concerns" due to risk of bias for multiple domains, it was judged as being at overall "high risk of bias" if the assessors judged that the multiple concerns amounted to a serious risk of bias. In case of discrepancies among their judgments and inability to reach consensus, we consulted the senior author (AN) to reach a final decision.
 
 ## Effect measures
 
-For dichotomous data, we presented results as summary risk ratio (RR) with 95% confidence intervals (CI). None of the outcomes of interest were meta‐analysed as a continuous variable. The unit of analysis was the individual participant. We used a complete case approach for analysis. When analyzing data related to participants who were reported as not compliant, we adhered to the principles of intention-to-treat analysis. 
+For dichotomous data, we presented results as summary risk ratio (RR) with 95% confidence intervals (CI). None of the outcomes of interest were meta‐analysed as a continuous variable. The unit of analysis was the individual participant. We used a complete case approach for analysis. Data related to participants reported as not compliant was analyzed on an intention-to-treat basis.
 
 ## Synthesis methods
 
@@ -128,23 +126,23 @@ We explored whether the study was included in a trial registry and whether a pro
 
 ## Certainty assessment
 
-We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to create the Summary of findings table. @grade2013 Briefly, GRADE uses study limitations, consistency of effect, imprecision, indirectness, and publication bias to assess the certainty of evidence for each outcome. A summary of the intervention effect and a measure of certainty was produced using the GRADEpro GDT software @gradepro2022 for the prespecified important outcomes: maternal death, pulmonary edema, renal failure, dialysis, liver morbidity, platelet transfusion, and perinatal death. One author (A.N.) conducted GRADE assessments and the decisions on downgrading. This was discussed for final approval by all authors.
+We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to create the Summary of Findings table. @grade2013 Briefly, GRADE uses study limitations, consistency of effect, imprecision, indirectness, and publication bias to assess the certainty of evidence for each outcome. A summary of the intervention effect and a measure of certainty was produced using the GRADE Profiler Guideline Development Tool (GRADEpro GDT) software @gradepro2022 for the prespecified important outcomes: maternal death, pulmonary edema, renal failure, dialysis, liver morbidity, platelet transfusion, and perinatal death. One author (A.N.) conducted GRADE assessments and the decisions on downgrading. This was discussed for final approval by all authors.
 
 # Results
 
 ## Study selection
 
-Bibliographic database search identified 154 records. After removing duplicates, 86 titles and abstracts were screened. Twenty four titles required further assessment. One is an an ongoing CTRI/2020/12/029730 and the full-text reports of twenty three published reports were assessed using the predefined eligibility criteria. We excluded two reports identified in our search. One study did not meet our inclusion criteria for participants. It enrolled women with low platelets not HELLP syndrome. The other study was terminated because of the inability to recruit the required sample. Fifteen studies (21 reports published between 1994 and 2019) including 821 women were found eligible @fig-prisma.
+Bibliographic database search identified 154 records. After removing duplicates, 86 titles and abstracts were screened. Twenty four titles required further assessment. One is an ongoing CTRI/2020/12/029730 and the full-text reports of twenty three published reports were assessed using the predefined eligibility criteria. We excluded two reports identified in our search. One study did not meet our inclusion criteria for participants as it enrolled women with low platelets not HELLP syndrome. The other study was terminated because of the inability to recruit the required sample. Fifteen studies (21 reports published between 1994 and 2019) including 821 women were found eligible @fig-prisma.
 
-![PRISMA flow diagram. PRISMA, Preferred Reporting Items for a Systematic review and Meta-analysis](prisma.jpeg){#fig-prisma}
+![PRISMA flow diagram. PRISMA, Preferred Reporting Items for Systematic reviews and Meta-Analyses](prisma.jpeg){#fig-prisma}
 
 ## Study characteristics
 
 We summarized the characteristics of the included studies in @tbl-1.
 
-The fifteen included trials recruited 821 women with HELLP syndrome. Criteria for recruitment in five trials [@Borekci2008; @DuPlessis2010; @Fonseca2005; @Magann1994; @VanRunnardHeimel2006; @Yalcin1998] were a diagnosis of HELLP class one or two on the Mississippi HELLP classification system. One trial exclusively recruited women with class 1 @Fonseca2019. One trial recruited women with class 2 and 3 @Magann1994c. Three studies [@Caliskan2010; @Ozer2009; @VigilDeGracia1997] recruited women with HELLP classes 1, 2, and 3. One study @Katz2008 included women with partial HELLP (1 or more parameters abnormal) (61/105 \[58.1%\]) and complete HELLP (all parameters abnormal) (44/105 \[41.9%\]); class 1 and 2 combined subset accounted for 85.7% of participants with complete HELLP. Three studies [@Bouchnak2005 ; @kadanali1997 ; @Mould2006] did not report explicitly on the class of HELLP syndrome.
+The fifteen included trials recruited 821 women with HELLP syndrome. Criteria for recruitment in five trials [@Borekci2008; @DuPlessis2010; @Fonseca2005; @Magann1994; @VanRunnardHeimel2006; @Yalcin1998] were a diagnosis of HELLP class 1 or 2 on the Mississippi HELLP classification system. One trial exclusively recruited women with class 1 @Fonseca2019. One trial recruited women with class 2 and 3 @Magann1994c. Three studies [@Caliskan2010; @Ozer2009; @VigilDeGracia1997] recruited women with HELLP classes 1, 2, and 3. One study @Katz2008 included women with partial HELLP (1 or more parameters abnormal) (61/105 \[58.1%\]) and complete HELLP (all parameters abnormal) (44/105 \[41.9%\]); class 1 and 2 combined subset accounted for 85.7% of participants with complete HELLP. Three studies [@Bouchnak2005 ; @kadanali1997 ; @Mould2006] did not report explicitly on the class of HELLP syndrome.
 
-Eleven trials administered dexamethasone vs placebo or no treatment [@Bouchnak2005; @DuPlessis2010; @Fonseca2005; @Fonseca2019; @kadanali1997; @Katz2008; @Magann1994; @Magann1994c; @Mould2006; @VigilDeGracia1997; @Yalcin1998], two trials administered betamethasone [@Caliskan2010; @Ozer2009], and one trial administered prednisolone @VanRunnardHeimel2006. One multiple arms trial compared dexamethasone vs betamethasone vs no treatment. @Borekci2008
+Eleven trials administered dexamethasone vs placebo or no treatment [@Bouchnak2005; @DuPlessis2010; @Fonseca2005; @Fonseca2019; @kadanali1997; @Katz2008; @Magann1994; @Magann1994c; @Mould2006; @VigilDeGracia1997; @Yalcin1998], two trials administered betamethasone [@Caliskan2010; @Ozer2009], and one trial administered prednisolone @VanRunnardHeimel2006. One multiple-arms trial compared dexamethasone vs betamethasone vs no treatment. @Borekci2008
 
 Corticosteroids administration commenced after delivery in eight trials [@Borekci2008; @Bouchnak2005; @DuPlessis2010; @Katz2008; @Magann1994; @Mould2006; @VigilDeGracia1997; @Yalcin1998], before delivery in five trials [@Caliskan2010; @kadanali1997; @Magann1994c; @Ozer2009; @VanRunnardHeimel2006], and in two trials [@Fonseca2005; @Fonseca2019] treatment commenced according to timing of recruitment whether before or after delivery.
 
@@ -220,11 +218,11 @@ The possibility of reporting bias could not be excluded, as not all trials repor
 
 The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. We downgraded the certainty of the evidence three levels to very low due to extremely serious imprecision. The 95% CI is very wide and includes both large benefit and large harm. The two boundaries of CI suggest very different inferences.
 
-Corticosteroids, compared with placebo or no treatment, may result in a slight reduction in acute renal failure. We downgraded the certainty of the evidence two levels to low due to very serious imprecision. The 95% CI overlaps no effect and includes both large benefit.
+Corticosteroids, compared with placebo or no treatment, may result in a slight reduction in acute renal failure. We downgraded the certainty of the evidence two levels to low due to very serious imprecision. The 95% CI overlaps no effect and includes large benefit.
 
 Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion. We downgraded the certainty of evidence two levels to low due to very serious imprecision. The pooled estimate of the risk ratio suggests no difference and the CI includes appreciable benefit and harm.
 
-A summary of findings table presents the same information as the text above, with footnotes explaining judgments, @tbl-grade.
+A Summary of Findings table presents the same information as the text above, with footnotes explaining judgments, @tbl-grade.
 
 +----------------------+-------------------------+----------------------------+---------------------+------------------------------+-------------------------------------+
 | Outcomes             | Number of participants\ | Certainty of the evidence\ | Relative effect\    | Anticipated absolute effects |                                     |
@@ -263,20 +261,15 @@ CI: confidence interval; RR: risk ratio; HELLP: Hemolysis, Elevated Liver enzyme
 
 GRADE Working Group grades of evidence
 
-High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
-
-Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
-
-Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
-
-Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.
+-   High certainty: we are very confident that the true effect lies close to that of the estimate of the effect.
+-   Moderate certainty: we are moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.
+-   Low certainty: our confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.
+-   Very low certainty: we have very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of effect.
 
 Explanations
 
 a.  CI is very wide and includes both large benefit and large harm. The two boundaries of CI suggest very different inferences. We rated down three levels for imprecision.
-
 b.  CI overlaps no effect and includes both large benefit and small harm. We rated down two levels for imprecision.
-
 c.  The pooled estimate of the risk ratio suggests no difference and the CI includes appreciable benefit and harm.
 
 # Discussion
@@ -287,15 +280,13 @@ We conducted this systematic review and meta-analysis to assess the effects of c
 
 There was no clear evidence of any treatment effect of corticosteroids on substantive clinical outcomes. The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion but may may result in a slight reduction in acute renal failure.
 
-## Evidence in context
+The results of this up-to-date review are consistent with the findings reported previously @Woudstra2010 that there was insufficient evidence to support the administration of corticosteroids to women with HELLP syndrome.
 
-The results of this up-to-date review are consistent with the findings reported previously @Woudstra2010. They concluded that there was insufficient evidence to support the administration of corticosteroids to women with HELLP syndrome.
+In this review, we only included randomized controlled trials (RCTs) for the meta-analysis. A major issue of observational evidence is that it is known to have limited internal validity as it is subject to both bias and confounding, therefore observational studies were excluded to ensure reliability of the results by minimizing the risk of bias due to unmeasured confounders. Overall, observational study designs are not the most appropriate to assess the causal relationship between an intervention and an outcome as several characteristics might differ or might change over time between the different intervention groups. So, the inclusion of observational studies in a meta-analysis might introduce bias in the summary effect. Potential biases are likely to be greater for observational studies compared with randomized trials when evaluating the effects of interventions. Observational studies of interventions vary in their ability to estimate a causal effect. Biases affecting observational studies of interventions vary depending on the features of the studies. Published reviews @mao2015 that included observational studies have failed to address potential confounders and the likelihood of increased heterogeneity resulting from residual confounding and from other biases that vary across studies.
 
-In this review, we only included randomized controlled trials (RCTs) for the meta-analysis. Observational studies were excluded to ensure reliability of the results by minimizing the risk of bias due to unmeasured confounders. A major issue of observational evidence is that it is known to have limited internal validity as it is subject to both bias and confounding. Overall, observational study designs are not the most appropriate to assess the causal relationship between an intervention and an outcome as several characteristics might differ or might change over time between the different intervention groups. So, the inclusion of observational studies in a meta-analysis might introduce bias in the summary effect. Potential biases are likely to be greater for observational studies compared with randomized trials when evaluating the effects of interventions. Observational studies of interventions vary in their ability to estimate a causal effect. Biases affecting pbservational studies of interventions vary depending on the features of the studies. Published reviews @mao2015 that included observational studies have failed to address potential confounders and the likelihood of increased heterogeneity resulting from residual confounding and from other biases that vary across studies.
+Our strategy aimed to study the effectiveness of corticosteroids for HELLP syndrome regarding critical maternal and perinatal outcomes rather than surrogate outcomes. While surrogate outcome measures, such as laboratory results, may provide insights into how a treatment might work, yet they do not necessarily reflect clinical benefits relevant to decision making. Moreover, some interventions that reduce the risk for a surrogate outcome may have no or harmful effects on clinically relevant outcomes, and other interventions having no effect on surrogate measures may improve clinical outcomes @Bucher2015; @cochrane2023ch3. As such, and despite their potential appeal, superiority on a surrogate end point, for example the change in platelet count and liver enzymes, may not reflect actual benefits that corticosteroids have on critical outcomes of women with HELLP syndrome. Furthermore, surrogate end points are potentially misleading and should be avoided, or at least interpreted with caution, as decision makers are required to extrapolate the findings to estimate true patient benefits, resulting in uncertainty about the effect of corticosteroids in HELLP syndrome. Published synthesized evidence @mao2015 that included surrogate outcomes without downgrading the certainty of evidence for indirectness would definitely provide misleading implications for practice. It may not be justifiable or acceptable to use surrogate outcomes for a review when validated or evaluated true endpoints are available @tufanaru2016.
 
-Our strategy aimed to study the effectiveness of corticosteroids for HELLP syndrome regarding critical maternal and perinatal outcomes instead of surrogate outcomes, which may provide insights into disease mechanisms rather than reflecting clinically meaningful outcomes relevant to decision making. Surrogate outcome measures, such as laboratory results are potentially misleading and should be avoided or interpreted with caution because they may not predict clinically important outcomes accurately. Surrogate outcomes may provide information on how a treatment might work but not whether it actually does work. Many interventions reduce the risk for a surrogate outcome but have no effect or have harmful effects on clinically relevant outcomes, and some interventions have no effect on surrogate measures but improve clinical outcomes @Bucher2015; @cochrane2023ch3. Despite the potential appeal of surrogates, for example the change in platelet count and liver enzymes, these laboratory markers might not reflect the actual effects that corticosteroids have on critical outcomes of women with HELLP syndrome. Superiority on a surrogate end point may not translate into benefits for patients. Further, the use of surrogate end points means that decision makers must extrapolate from these findings to estimate the true benefits to patients. This results in uncertainty about the effect of corticosteroids in HELLP syndrome. Published synthesized evidence @mao2015 that included surrogate outcomes without downgrading the certainty of evidence for indirectness would definitely provide misleading implications for practice. It may not be justifiable or acceptable to use surrogate outcomes for a review when validated or evaluated true endpoints are available @tufanaru2016.
-
-We also focused on studies that compared corticosteroids to placebo or standard care. Comparing various types of corticosteroids, which differ in their relative potency and duration of action, to each other would not be clinically useful if none of them are superior to placebo. It is neither intuitive nor correct to compare one corticosteroid to another when evidence fails to show a difference between any corticosteroid vs placebo or no treatment. Investigators @basaran2012 raised serious doubts regarding the credibility of the subgroup analysis results of the Cochrane review @Woudstra2010 and the application of these subgroup results into clinical practice.
+We also focused on studies that compared corticosteroids to placebo or standard care. Various types of corticosteroids differ in their relative potency and duration of action. It would, therefore, be counter-intuitive, and not clinically useful, to compare one corticosteroid to another when evidence fails to show a difference between any corticosteroid vs placebo or no treatment. Investigators @basaran2012 raised serious concerns regarding the credibility of the subgroup analysis results of the Cochrane Review @Woudstra2010 and the application of these subgroup results into clinical practice.
 
 I*n summary,* our methodology minimized bias through strict inclusion of randomized controlled trials, established the class effect first before agent comparisons, and emphasized outcomes of greatest clinical relevance. This approach provided the most robust and applicable evidence for clinical decision making.
 
@@ -303,15 +294,15 @@ The results of our up-to-date synthesis of available evidence provide a rigorous
 
 ## Limitations
 
-A limitation of the evidence was the limited number of outcomes reported in included trials. Most included trials reported surrogate laboratory results. The possibility of reporting bias could not be excluded, as not all trials reported all relevant outcomes. Patient relevant outcomes in HELLP syndrome do not require exceptional training, expensive tools, or long follow up. It does not seem comprehensible to conduct a trial in such a critical condition without reporting maternal death or morbidity.
+A limitation of the evidence was the restricted number of outcomes reported in the included trials. Most included trials reported surrogate laboratory results. The possibility of reporting bias could not be excluded, given that not all trials reported all relevant outcomes. In the case of HELLP syndrome, patient-relevant outcomes do not require exceptional training, expensive tools, or long follow up. It would be implausible to conduct a trial in such a critical condition without reporting maternal death or morbidity.
 
 ## Conclusions
 
-In women with HELLP syndrome, the effect of corticosteroids versus placebo or no treatment is uncertain for critical patient relevant outcomes. The currently available evidence does not support or refute the practice of corticosteroid administration for treating HELLP syndrome.
+In women with HELLP syndrome, the effect of corticosteroids versus placebo or no treatment is uncertain for critical patient-relevant outcomes. The currently available evidence does not support or refute the practice of corticosteroid administration for treating HELLP syndrome.
 
 # Funding statement
 
-This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors
+This research received no specific grant from any funding agency in the public, commercial or not-for-profit sectors.
 
 # Acknowledgments
 
@@ -349,7 +340,7 @@ Supplemental file 4: Data and analysis code
 
 # Figure legend
 
-Figure 1 PRISMA flow diagram. PRISMA, Preferred Reporting Items for a Systematic review and Meta-analysis
+Figure 1 PRISMA flow diagram. PRISMA, Preferred Reporting Items for Systematic reviews and Meta-Analyses
 
 Figure 2 Maternal death: Corticosteroids vs placebo or no treatment
 
