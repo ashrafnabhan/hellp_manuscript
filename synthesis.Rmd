@@ -15,12 +15,8 @@ library(meta)
 library(readxl)
 library(PRISMA2020)
 library(knitr)
-library(rsvg)
-library(DiagrammeR)
-library(tidyverse) 
-library(DiagrammeRsvg)
-library(htmlwidgets)
-library(webshot)
+library(tidyverse)
+library(robvis)
 ```
 
 # PRISMA Flow diagram
@@ -44,15 +40,15 @@ attach(raw.data)
 
 ## Pre-specified outcomes
 
-1.  Death
-2.  Liver morbidity
-3.  Pulmonary edema
-4.  Renal failure
+1.  Maternal Death
+2.  Liver morbidity (hematoma, rupture, failure)
+3.  Acute pulmonary edema
+4.  Acute renal failure
 5.  Dialysis
 6.  Platelet transfusion
 7.  Perinatal death
 
-## Death
+## Maternal Death
 
 Pairwise meta-analysis
 
@@ -61,6 +57,15 @@ bin = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,su
 summary(bin) 
 forest.meta(bin,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
+
+Risk of bias
+
+```{r}
+rob2md = read.csv("rob2md.csv") 
+rob_summary(data = rob2md,tool = "ROB2")
+rob_traffic_light(data = rob2md,tool = "ROB2")
+```
+
 
 Subgroup analysis: Antepartum vs postpartum vs mixed
 
@@ -96,7 +101,7 @@ Funnel plot
 funnel(x = bin)
 ```
 
-## Pulmonary edema
+## Acute pulmonary edema
 
 ```{r}
 binpe = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Maternal pulmonary edema")) 
@@ -104,7 +109,7 @@ summary(binpe)
 forest.meta(binpe,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
 
-## Renal failure
+## Acute renal failure
 
 ```{r}
 binrf = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,subset = c(outcome =="Maternal renal failure")) 
