@@ -50,11 +50,10 @@ ORCID: 0000-0002-1870-7966
 
 ## Strengths and limitations of this study
 
-We used robust systematic review and meta-analysis methods. We reported on patient relevant outcomes that are critical for decision making.
-
-The available evidence was associated with limitations related to the small sample size of included trials, different timing to initiate corticosteroids administration.
-
-Outcomes assessed using the Grading of Recommendations, Assessment, Development and Evaluation framework were judged to have very low certainty of evidence primarily due to imprecision.
+-   We used robust systematic review and meta-analysis methods.
+-   We synthesized results on patient relevant outcomes that are critical for decision making.
+-   The available evidence was associated with limitations related to the small sample size of included trials, different timing to initiate corticosteroids administration, and reporting bias.
+-   Outcomes assessed using the Grading of Recommendations, Assessment, Development and Evaluation framework were judged to have very low certainty of evidence primarily due to extremely serious imprecision.
 
 # Introduction
 
@@ -306,7 +305,7 @@ We also focused on studies that compared corticosteroids to placebo or standard 
 
 I*n summary,* our methodology minimized bias through strict inclusion of randomized controlled trials, established the class effect first before agent comparisons, and emphasized outcomes of greatest clinical relevance. This approach provided the most robust and applicable evidence for clinical decision making.
 
-The results of our up-to-date synthesis of available evidence provide a rigorous evidence base for trustworthy clinical practice guidelines for the management of HELLP syndrome. Currently available guidelines unanimously do not recommend corticosteroids for treatment of hemolysis, elevated liver enzymes, low platelets syndrome until they have been proven to decrease maternal morbidity [@gestatio2020; @bonnet2021; @who2011; @who2018; @nice2019; @magee2014; @lowe2015].
+The results of our up-to-date synthesis of available evidence provide a rigorous evidence base for trustworthy clinical practice guidelines for the management of HELLP syndrome [@gestatio2020; @bonnet2021; @who2011; @who2018; @nice2019; @magee2014; @lowe2015].
 
 ## Limitations
 
