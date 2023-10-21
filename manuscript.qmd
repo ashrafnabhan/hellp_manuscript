@@ -134,7 +134,7 @@ We used the Grading of Recommendations, Assessment, Development and Evaluation (
 
 Bibliographic database search identified 154 records. After removing duplicates, 86 titles and abstracts were screened. Twenty four titles required further assessment. One is an ongoing CTRI/2020/12/029730 and the full-text reports of twenty three published reports were assessed using the predefined eligibility criteria. We excluded two reports identified in our search. One study did not meet our inclusion criteria for participants as it enrolled women with low platelets not HELLP syndrome. The other study was terminated because of the inability to recruit the required sample. Fifteen studies (21 reports published between 1994 and 2019) including 821 women were found eligible @fig-prisma.
 
-![PRISMA flow diagram. PRISMA, Preferred Reporting Items for Systematic reviews and Meta-Analyses](prisma.jpeg){#fig-prisma}
+![PRISMA flow diagram. PRISMA, Preferred Reporting Items for Systematic reviews and Meta-Analyses](fig1.jpeg){#fig-prisma}
 
 ## Study characteristics
 
