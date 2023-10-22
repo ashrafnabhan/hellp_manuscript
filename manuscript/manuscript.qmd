@@ -127,6 +127,10 @@ We explored whether the study was included in a trial registry and whether a pro
 
 We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to create the Summary of Findings table. @grade2013 Briefly, GRADE uses study limitations, consistency of effect, imprecision, indirectness, and publication bias to assess the certainty of evidence for each outcome. A summary of the intervention effect and a measure of certainty was produced using the GRADE Profiler Guideline Development Tool (GRADEpro GDT) software @gradepro2022 for the prespecified important outcomes: maternal death, pulmonary edema, renal failure, dialysis, liver morbidity, platelet transfusion, and perinatal death. One author (A.N.) conducted GRADE assessments and the decisions on downgrading. This was discussed for final approval by all authors.
 
+## Patient and public involvement
+
+We consulted with patients by asking a group to review and comment on an early draft of the manuscript.
+
 # Results
 
 ## Study selection
