@@ -51,7 +51,7 @@ ORCID: 0000-0002-1870-7966
 -   We used robust systematic review and meta-analysis methods.
 -   We synthesized results on patient relevant outcomes that are critical for decision making.
 -   The available evidence was associated with limitations related to the small sample size of included trials, different timing to initiate corticosteroids administration, and reporting bias.
--   Outcomes assessed using the Grading of Recommendations, Assessment, Development and Evaluation framework were judged to have very low certainty of evidence primarily due to extremely serious imprecision.
+-   Outcomes assessed using the Grading of Recommendations, Assessment, Development and Evaluation framework were judged to have very low certainty of evidence due to extremely serious imprecision.
 
 # Introduction
 
@@ -295,7 +295,7 @@ We conducted this systematic review and meta-analysis to assess the effects of c
 
 ## Summary of the evidence
 
-There was no clear evidence of any treatment effect of corticosteroids on substantive clinical outcomes. The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion but may may result in a slight reduction in acute renal failure.
+There was no clear evidence of any treatment effect of corticosteroids on substantive clinical outcomes. The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion but may result in a slight reduction in acute renal failure.
 
 The results of this up-to-date review are consistent with the findings reported previously @Woudstra2010 that there was insufficient evidence to support the administration of corticosteroids to women with HELLP syndrome.
 
