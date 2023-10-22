@@ -1,5 +1,5 @@
 ---
-format: pdf
+format: docx
 bibliography: hellp.bib
 csl: bmj.csl
 ---
@@ -8,7 +8,7 @@ csl: bmj.csl
 
 # Authors
 
-Asmaa Fahmy Kasem^1^, Hamdy Bakry Alqenawy^1^ ^\*^, Marwa Abd Elmawla Elgendi^1^, Radwa Rasheedy^1^,  Rania Hassan Mostafa Ahmed^1^, Mohammad Nahel Sorour^1^, Mohamed Yasser Galal Albahaie^1^, Khadiga Mostafa Hussein Hegab^1^, Rania Gamal^1^, Yasser M. Elrefaey^1^, Rowyna Hany Mohamed El Helw^1^, Mohamed Sameh Elsewefy^1^, Maya M. Abdelrazek^1^, Mohamed Hamed Salama^1^, Ashraf Fawzy Nabhan^1^
+Asmaa Fahmy Kasem^1^, Hamdy Bakry Alqenawy^1^ ^\*^, Marwa Abd Elmawla Elgendi^1^, Radwa Rasheedy^1^, Rania Hassan Mostafa Ahmed^1^, Mohammad Nahel Sorour^1^, Mohamed Yasser Galal Albahaie^1^, Khadiga Mostafa Hussein Hegab^1^, Rania Gamal^1^, Yasser M. Elrefaey^1^, Rowyna Hany Mohamed El Helw^1^, Mohamed Sameh Elsewefy^1^, Maya M. Abdelrazek^1^, Mohamed Hamed Salama^1^, Ashraf Fawzy Nabhan^1^
 
 # Affiliation
 
@@ -73,7 +73,7 @@ We conducted this systematic review to update the synthesized evidence regrading
 
 ## Protocol and registration
 
-This systematic review was conducted following the methodological standards of Cochrane Handbook. [@cochrane2023] We prospectively registered the protocol in Open Science Platform. The full text of the protocol is available in an open access registry and as an online supplementary file. We reported the review using the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) standards. [@page2021]
+This systematic review was conducted following the methodological standards of Cochrane Handbook. [@cochrane2023] We prospectively registered the protocol in Open Science Platform. The full text of the protocol is available in an open access registry and as an online as [Supplemental file 1] . We reported the review using the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) standards. [@page2021] The full checklist is available as [Supplemental file 2].
 
 ## Eligibility criteria
 
@@ -81,7 +81,7 @@ We included published randomized controlled trials that recruited women with HEL
 
 ## Information sources
 
-A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). The detailed exact strategy adapted for each database is provided in a supplementary file and is also available in an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
+A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). The detailed exact strategy adapted for each database is provided in [Supplemental file 3] and is available as an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
 
 ## Study selection
 
@@ -185,17 +185,17 @@ Corticosteroids administration commenced after delivery in eight trials [@Borekc
 
 ## Risk of bias in studies
 
-We assessed the risk of bias for the included RCTs contributing results to our outcomes using the RoB 2 tool. The overall risk of bias for all study results per outcome are available in supplementary file 2.
+We assessed the risk of bias for the included RCTs contributing results to our outcomes using the RoB 2 tool. The overall risk of bias for all study results per outcome are available in [Supplemental file 4].
 
 ## Syntheses of results
 
 Maternal death
 
-Six trials (449 women) reported maternal death. The risk ratio (RR) was 0.77 (95% confidence intervals (CI) 0.25 to 2.38, @fig-md). The effect of any corticosteroid vs placebo or no treatment is uncertain. We downgraded the certainty of the evidence to very low due to extremely serious imprecision, @tbl-grade.
+Six trials (449 women) reported maternal death. The risk of bias for the included RCTs contributing results to maternal death ia available in the [Supplemental file 4]. The risk ratio (RR) was 0.77 (95% confidence intervals (CI) 0.25 to 2.38, @fig-md). The effect of any corticosteroid vs placebo or no treatment is uncertain. We downgraded the certainty of the evidence to very low due to extremely serious imprecision, @tbl-grade.
 
-The subgroup analysis did not show significant differences among groups whether by the timing of corticosteroid administration (test for subgroup differences P = 0.79) or by the type of corticosteroid (test for subgroup differences P = 0.60).
+The subgroup analysis did not show significant differences among groups whether by the timing of corticosteroid administration (test for subgroup differences P = 0.79) or by the type of corticosteroid (test for subgroup differences P = 0.60) ([Supplemental file 4]).
 
-Sensitivity analysis to explore robustness of pooled estimate for maternal death, using outcome data from trials with a low risk of bias showed results similar to primary analysis with a RR 0.87 (95% CI 0.26 to 2.92) or by including studies with zero events with RR 0.79 (95% CI 0.27 to 2.32).
+Sensitivity analysis to explore robustness of pooled estimate for maternal death, using outcome data from trials with a low risk of bias showed results similar to primary analysis with a RR 0.87 (95% CI 0.26 to 2.92) or by including studies with zero events with RR 0.79 (95% CI 0.27 to 2.32) ([Supplemental file 4]).
 
 ![Maternal death: Corticosteroids vs placebo or no treatment](images/fig2.jpg){#fig-md}
 
@@ -345,17 +345,17 @@ Not applicable
 
 None declared.
 
-# Supplemental file
+## Supplemental files
 
-Supplemental file 1: Systematic review protocol
+### Supplemental file 1
 
-Supplemental file 2: PRISMA checklist
+### Supplemental file 2
 
-Supplemental file 3: Detailed search strategy
+### Supplemental file 3
 
-Supplemental file 4: Data and analysis code
+### Supplemental file 4
 
-# Figure legend
+## Figure legend
 
 Figure 1 PRISMA flow diagram. PRISMA, Preferred Reporting Items for Systematic reviews and Meta-Analyses
 
