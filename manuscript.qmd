@@ -10,7 +10,7 @@ csl: bmj.csl
 
 # Authors
 
-Asmaa Fahmy Kasem^1^, Hamdy Bakry Alqenawy^1^ ^\*^, Marwa Abd Elmawla Elgendi^1^, Radwa Rasheedy^1^, Rania Gamal^1^, Yasser M. Elrefaey^1^, Rowyna Hany Mohamed El Helw^1^, Rania Hassan Mostafa Ahmed^1^, Mohammad Nahel Sorour^1^, Mohamed Sameh Elsewefy^1^, Maya M. Abdelrazek^1^, Mohamed Yasser Galal Albahaie^1^, Khadiga Mostafa Hussein Hegab^1^, Mohamed Hamed Salama^1^, Ashraf Fawzy Nabhan^1^
+Asmaa Fahmy Kasem^1^, Hamdy Bakry Alqenawy^1^ ^\*^, Marwa Abd Elmawla Elgendi^1^, Radwa Rasheedy^1^,  Rania Hassan Mostafa Ahmed^1^, Mohammad Nahel Sorour^1^, Mohamed Yasser Galal Albahaie^1^, Khadiga Mostafa Hussein Hegab^1^, Rania Gamal^1^, Yasser M. Elrefaey^1^, Rowyna Hany Mohamed El Helw^1^, Mohamed Sameh Elsewefy^1^, Maya M. Abdelrazek^1^, Mohamed Hamed Salama^1^, Ashraf Fawzy Nabhan^1^
 
 # Affiliation
 
@@ -325,7 +325,7 @@ This research received no specific grant from any funding agency in the public, 
 
 # Acknowledgments
 
-We acknowledge the effort and the spirit of goodwill of xx for their contribution to this work.
+We acknowledge the contribution and the spirit of goodwill of Dr. Maha Khalifa, the healthcare advocate for her valuable insights.
 
 # Author contributions
 
