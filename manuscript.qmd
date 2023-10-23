@@ -4,7 +4,7 @@ bibliography: hellp.bib
 csl: bmj.csl
 ---
 
-# Corticosteroids for improving outcomes in HELLP syndrome: a systematic review and meta-analysis
+# Corticosteroids for improving patient relevant outcomes in HELLP syndrome: a systematic review and meta-analysis
 
 # Authors
 
@@ -30,7 +30,7 @@ ORCID: 0000-0002-1870-7966
 
 # Abstract
 
-**Objectives**: We conducted an update of systematic review to assess the effects of corticosteroids vs placebo or no treatment for improving outcomes in hemolysis, elevated liver enzymes and low platelets (HELLP) syndrome.
+**Objectives**: We conducted an update of systematic review to assess the effects of corticosteroids vs placebo or no treatment for improving patient relevant outcomes in hemolysis, elevated liver enzymes and low platelets (HELLP) syndrome.
 
 **Design**: a systematic review and meta-analysis of randomized controlled trials.
 
