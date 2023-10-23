@@ -1,5 +1,5 @@
 ---
-title: "Corticosteroids for HELLP syndrome"
+title: "Corticosteroids for improving patient relevant outcomes in HELLP syndrome"
 subtitle: "Data synthesis script"
 author: "Ashraf Nabhan"
 output: html_document
