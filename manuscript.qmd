@@ -1,5 +1,7 @@
 ---
-format: docx
+format: 
+  docx:
+    reference-doc: template.docx  
 bibliography: hellp.bib
 csl: bmj.csl
 ---
@@ -77,7 +79,7 @@ This systematic review was conducted following the methodological standards of C
 
 ## Eligibility criteria
 
-We included published randomized controlled trials that recruited women with HELLP syndrome, confirmed by objective testing. We included studies comparing corticosteroids versus placebo or no treatment. The primary outcome measure was maternal death. Other outcomes included pulmonary edema; acute renal failure; dialysis, liver morbidity (hematoma, ruptured liver, and failure), platelet transfusion, and perinatal death.
+We included published randomized controlled trials that recruited women with HELLP syndrome, confirmed by objective testing. We included studies comparing corticosteroids versus placebo or no treatment. The primary outcome measure was maternal death. Other outcomes included accute pulmonary edema; acute renal failure; dialysis, liver morbidity (hematoma, ruptured liver, and failure), platelet transfusion, and perinatal death.
 
 ## Information sources
 
@@ -187,11 +189,13 @@ Corticosteroids administration commenced after delivery in eight trials [@Borekc
 
 We assessed the risk of bias for the included RCTs contributing results to our outcomes using the RoB 2 tool. The overall risk of bias for all study results per outcome are available in [Supplemental file 4].
 
+The results of risk of bias assessments for the primary outcome, maternal death are depicted in [Supplemental file 4]. Overall, 5 out of 6 studies were judged overall to be at "low risk" of bias. One study @VigilDeGracia1997 was judged to be at "high risk" of bias. The main reasons for having "high risk" in domain 1 were lack of description in the randomization process with baseline differences in platelet count between intervention groups that suggest a problem with the randomization process. There were "some concerns" in two other domains. First, people delivering the interventions were probably aware of participants' assigned intervention during the trial. Second, there were no information whether the data that produced this result were analysed in accordance with a pre-specified analysis plan that was finalized before unblinded outcome data were available for analysis.
+
 ## Syntheses of results
 
 Maternal death
 
-Six trials (449 women) reported maternal death. The risk of bias for the included RCTs contributing results to maternal death ia available in the [Supplemental file 4]. The risk ratio (RR) was 0.77 (95% confidence intervals (CI) 0.25 to 2.38, @fig-md). The effect of any corticosteroid vs placebo or no treatment is uncertain. We downgraded the certainty of the evidence to very low due to extremely serious imprecision, @tbl-grade.
+Six trials (449 women) reported maternal death. The risk ratio (RR) was 0.77 (95% confidence intervals (CI) 0.25 to 2.38, @fig-md). The effect of any corticosteroid vs placebo or no treatment is uncertain. We downgraded the certainty of the evidence to very low due to extremely serious imprecision, @tbl-grade.
 
 The subgroup analysis did not show significant differences among groups whether by the timing of corticosteroid administration (test for subgroup differences P = 0.79) or by the type of corticosteroid (test for subgroup differences P = 0.60) ([Supplemental file 4]).
 
