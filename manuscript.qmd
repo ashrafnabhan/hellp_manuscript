@@ -42,7 +42,7 @@ ORCID: 0000-0002-1870-7966
 
 **Data extraction and synthesis**: We used a dual independent approach for screening titles and abstracts, full text screening, data extraction and risk of bias assessment. Pairwise meta-analyses were conducted, where two or more studies met methodological criteria for inclusion. The Grading of Recommendations, Assessment, Development and Evaluation approach was used to assess certainty for the pre-specified important outcomes.
 
-**Results**: Fifteen trials (821 women) compared corticosteroids with placebo or no treatment. The effect of corticosteroids is uncertain for the primary outcome i.e., maternal death (risk ratio 0.77, 95% confidence interval 0.25 to 2.38, very low certainty evidence). The effect of corticosteroids is also uncertain for other important outcomes including pulmonary edema, dialysis, liver morbidity (hematoma, rupture, and failure), or perinatal death because of very low certainty evidence. Low certainty evidence suggests that corticosteroids have little or no effect on platelet transfusion (risk ratio 0.9821; 95% confidence interval 0.6031 to 1.5994) and may result in a slight reduction in acute renal failure (risk ratio 0.6658; 95% confidence interval 0.3965 to 1.1179)
+**Results**: Fifteen trials (821 women) compared corticosteroids with placebo or no treatment. The effect of corticosteroids is uncertain for the primary outcome i.e., maternal death (risk ratio 0.77, 95% confidence interval 0.25 to 2.38, very low certainty evidence). The effect of corticosteroids is also uncertain for other important outcomes including pulmonary edema, dialysis, liver morbidity (hematoma, rupture, and failure), or perinatal death because of very low certainty evidence. Low certainty evidence suggests that corticosteroids have little or no effect on the need for platelet transfusion (risk ratio 0.9821; 95% confidence interval 0.6031 to 1.5994) and may result in a slight reduction in acute renal failure (risk ratio 0.6658; 95% confidence interval 0.3965 to 1.1179)
 
 **Conclusion**: In women with HELLP syndrome, the effect of corticosteroids vs placebo or no treatment is uncertain for patient relevant outcomes including maternal death, maternal morbidity, platelet transfusion, and perinatal death.
 
@@ -79,7 +79,7 @@ This systematic review was conducted following the methodological standards of C
 
 ## Eligibility criteria
 
-We included published randomized controlled trials that recruited women with HELLP syndrome, confirmed by objective testing. We included studies comparing corticosteroids versus placebo or no treatment. The primary outcome measure was maternal death. Other outcomes included accute pulmonary edema; acute renal failure; dialysis, liver morbidity (hematoma, ruptured liver, and failure), platelet transfusion, and perinatal death.
+We included published randomized controlled trials that recruited women with HELLP syndrome, confirmed by objective testing. We included studies comparing corticosteroids versus placebo or no treatment. The primary outcome measure was maternal death. Other outcomes included accute pulmonary edema; acute renal failure; dialysis, liver morbidity (hematoma, ruptured liver, and failure), need for platelet transfusion, and perinatal death.
 
 ## Information sources
 
@@ -125,7 +125,7 @@ We explored whether the study was included in a trial registry and whether a pro
 
 ## Certainty assessment
 
-We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to create the Summary of Findings table. @grade2013 Briefly, GRADE uses study limitations, consistency of effect, imprecision, indirectness, and publication bias to assess the certainty of evidence for each outcome. A summary of the intervention effect and a measure of certainty was produced using the GRADE Profiler Guideline Development Tool (GRADEpro GDT) software @gradepro2022 for the prespecified important outcomes: maternal death, pulmonary edema, renal failure, dialysis, liver morbidity, platelet transfusion, and perinatal death. One author (A.N.) conducted GRADE assessments and the decisions on downgrading. This was discussed for final approval by all authors.
+We used the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) approach to create the Summary of Findings table. @grade2013 Briefly, GRADE uses study limitations, consistency of effect, imprecision, indirectness, and publication bias to assess the certainty of evidence for each outcome. A summary of the intervention effect and a measure of certainty was produced using the GRADE Profiler Guideline Development Tool (GRADEpro GDT) software @gradepro2022 for the prespecified important outcomes: maternal death, pulmonary edema, renal failure, dialysis, liver morbidity, need for platelet transfusion, and perinatal death. One author (A.N.) conducted GRADE assessments and the decisions on downgrading. This was discussed for final approval by all authors.
 
 ## Patient and public involvement
 
@@ -225,7 +225,7 @@ The evidence is very uncertain about the effect of corticosteroids on liver morb
 
 Platelet transfusion
 
-Based on data from 219 women in two studies, corticosteroids have little or no difference in platelet transfusion (RR 0.9821; 95% CI 0.6031 to 1.5994). We downgraded the certainty of evidence to low due to very serious imprecision.
+Based on data from 219 women in two studies, corticosteroids have little or no difference in the need for platelet transfusion (RR 0.9821; 95% CI 0.6031 to 1.5994). We downgraded the certainty of evidence to low due to very serious imprecision.
 
 Perinatal death
 
@@ -241,7 +241,7 @@ The effect of corticosteroids, compared with placebo or no treatment, is uncerta
 
 Corticosteroids, compared with placebo or no treatment, may result in a slight reduction in acute renal failure. We downgraded the certainty of the evidence two levels to low due to very serious imprecision. The 95% CI overlaps no effect and includes large benefit.
 
-Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion. We downgraded the certainty of evidence two levels to low due to very serious imprecision. The pooled estimate of the risk ratio suggests no difference and the CI includes appreciable benefit and harm.
+Corticosteroids, compared with placebo or no treatment, have little or no difference in the need for platelet transfusion. We downgraded the certainty of evidence two levels to low due to very serious imprecision. The pooled estimate of the risk ratio suggests no difference and the CI includes appreciable benefit and harm.
 
 A Summary of Findings table presents the same information as the text above, with footnotes explaining judgments, @tbl-grade.
 
@@ -295,11 +295,11 @@ c.  The pooled estimate of the risk ratio suggests no difference and the CI incl
 
 # Discussion
 
-We conducted this systematic review and meta-analysis to assess the effects of corticosteroids for improving outcomes in women with HELLP syndrome. This updated evidence synthesis is required for the development of the National Guideline for the management of severe preeclampsia.
+We conducted this systematic review and meta-analysis to assess the effects of corticosteroids for improving outcomes in women with HELLP syndrome. This updated evidence synthesis is mandatory for the development of the Egyptian National Guideline for the management of severe preeclampsia, commissioned by the Egyptian Health Council.
 
 ## Summary of the evidence
 
-There was no clear evidence of a treatment effect of corticosteroids on substantive clinical outcomes. The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. Corticosteroids, compared with placebo or no treatment, have little or no difference in platelet transfusion but may result in a slight reduction in acute renal failure.
+There was no clear evidence of a treatment effect of corticosteroids on substantive clinical outcomes. The effect of corticosteroids, compared with placebo or no treatment, is uncertain for maternal death, acute pulmonary edema, dialysis, and perinatal death. Corticosteroids, compared with placebo or no treatment, have little or no difference in the need for platelet transfusion but may result in a slight reduction in acute renal failure.
 
 The results of this up-to-date review are consistent with the findings reported previously @Woudstra2010 that there was insufficient evidence to support the administration of corticosteroids to women with HELLP syndrome.
 
