@@ -10,7 +10,7 @@ csl: bmj.csl
 
 # Authors
 
-Asmaa Fahmy Kasem^1^, Hamdy Bakry Alqenawy^1^ ^\*^, Marwa Abd Elmawla Elgendi^1^, Radwa Rasheedy^1^, Rania Hassan Mostafa Ahmed^1^, Mohammad Nahel Sorour^1^, Mohamed Hamed Salama^1^, Ashraf Fawzy Nabhan^1^
+Asmaa Fahmy Kasem^1^, Hamdy Bakry Alqenawy^1^ ^\*^, Marwa Abd Elmawla Elgendi^1^, Radwa Rasheedy^1^, Rania Hassan Mostafa Ahmed^1^, Mohammad Nahel Sorour^1^, Khadiga Mostafa Hussein Hegab^1^, Rania Gamal^1^, Rowyna Hany Mohamed El Helw^1^, Mohamed Sameh Elsewefy^1^, Maya M. Abdelrazek^1^, Yasser M Elrefaey^1^, Mohamed Yasser Galal Albahaie^1^, Mohamed Hamed Salama^1^, Ashraf Fawzy Nabhan^1^
 
 # Affiliation
 
@@ -44,7 +44,7 @@ ORCID: 0000-0002-1870-7966
 
 **Results**: Fifteen trials (821 women) compared corticosteroids with placebo or no treatment. The effect of corticosteroids is uncertain for the primary outcome i.e., maternal death (risk ratio 0.77, 95% confidence interval 0.25 to 2.38, very low certainty evidence). The effect of corticosteroids is also uncertain for other important outcomes including pulmonary edema, dialysis, liver morbidity (hematoma, rupture, and failure), or perinatal death because of very low certainty evidence. Low certainty evidence suggests that corticosteroids have little or no effect on the need for platelet transfusion (risk ratio 0.9821; 95% confidence interval 0.6031 to 1.5994) and may result in a slight reduction in acute renal failure (risk ratio 0.6658; 95% confidence interval 0.3965 to 1.1179)
 
-**Conclusion**: In women with HELLP syndrome, the effect of corticosteroids vs placebo or no treatment is uncertain for patient relevant outcomes including maternal death, maternal morbidity, platelet transfusion, and perinatal death.
+**Conclusion**: In women with HELLP syndrome, the effect of corticosteroids vs placebo or no treatment is uncertain for patient relevant outcomes including maternal death, maternal morbidity, and perinatal death.
 
 # Article summary
 
@@ -83,15 +83,16 @@ We included published randomized controlled trials that recruited women with HEL
 
 ## Information sources
 
-A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). The detailed exact strategy adapted for each database is provided in [Supplemental file 3] and is available as an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
+A comprehensive literature search was initially conducted on September 20, 2023. We did not impose language or other restrictions on any of the searches. We searched bibliographic databases (Cochrane Central Register of Controlled Trials (CENTRAL), MEDLINE/PubMed) and citation indexes (Web of Science and Scopus). 
+We included the terms (HELLP Syndrome) AND (corticosteroids or glucocorticoids or Dexamethasone or Betamethasone or Prednisolone). The detailed exact strategy adapted for each database is provided in [Supplemental file 3] and is available as an open access registry document. We peer-reviewed the search strategy and further tested it with a set of known relevant, 'gold standard', reports. We also searched clinical trial registries (ClinicalTrials.gov and the World Health Organization International Clinical Trials Registry Platform) to identify ongoing trials. We finally searched reference lists and explored the cited-by logs of identified studies and previously published reviews.
 
 ## Study selection
 
-All reports identified in the databases were imported to Bibtex library using Jabref version 5. After removing duplicates, two authors independently screened all titles and abstracts for eligibility. We retrieved and assessed the full text of all reports that potentially met our eligibility criteria during screening. Two authors independently assessed each full-text article. Disagreements regarding trial eligibility was resolved by consensus and finally resolved by a third author (AN).
+All reports identified in the databases were imported to Bibtex library using Jabref version 5. After removing duplicates, two authors independently screened all titles and abstracts for eligibility. We retrieved and assessed the full text of all reports that potentially met our eligibility criteria during screening. Two authors (AFK, HBA, ME, RA) independently assessed each full-text article. Disagreements regarding trial eligibility was resolved by consensus and finally resolved by a third author (AN).
 
 ## Data collection process
 
-For eligible studies, two authors extracted the data in duplicates using an offline electronic form. We resolved discrepancies through discussion. Extracted data were transcribed to a spreadsheet and checked for accuracy. We contacted authors of the original reports, if needed, to provide details regarding unclear or missing data.
+For eligible studies, we extracted the data in duplicates using an offline electronic form. We resolved discrepancies through discussion. Extracted data were transcribed to a spreadsheet and checked for accuracy. We contacted authors of the original reports, if needed, to provide details regarding unclear or missing data.
 
 ## Data items
 
@@ -99,11 +100,7 @@ Extracted data included study design, sample size, description of included parti
 
 ## Study risk of bias assessment
 
-Two authors independently used the Risk of Bias 2 (RoB 2) tool to assess the risk of bias of study results contributing information to each of the outcomes specified for inclusion in the Summary of Findings table.
-
-We assessed the following risk of bias domains as outlined in Cochrane Handbook for Systematic Reviews of Interventions: 1) risk of bias arising from the randomization process; 2) risk of bias due to deviations from the intended interventions (effect of assignment to intervention); 3) risk of bias due to missing outcome data; 4) risk of bias in measurement of the outcome; and 5) risk of bias in selection of the reported result. Each domain was judged as being at "low risk of bias", "some concerns", or "high risk of bias".
-
-RCTs with "low risk of bias" in all domains were classified as being at overall "low risk of bias". RCTs with one domain judged to be at "some concerns", but no domain judged to be at "high risk of bias", were classified as being at overall "some concerns" of risk of bias. RCTs were classified as being at overall "high risk of bias" if at least one domain was judged as being at "high risk of bias". However, if a trial was judged to be at "some concerns" due to risk of bias for multiple domains, it was judged as being at overall "high risk of bias" if the assessors judged that the multiple concerns amounted to a serious risk of bias. In case of discrepancies among their judgments and inability to reach consensus, we consulted the senior author (AN) to reach a final decision.
+Two authors (AFK, HBA, ME, RA) independently used the Risk of Bias 2 (RoB 2) tool to assess the risk of bias of study results contributing information to each of the outcomes specified for inclusion in the Summary of Findings table. We assessed the following risk of bias domains as outlined in Cochrane Handbook for Systematic Reviews of Interventions: 1) risk of bias arising from the randomization process; 2) risk of bias due to deviations from the intended interventions (effect of assignment to intervention); 3) risk of bias due to missing outcome data; 4) risk of bias in measurement of the outcome; and 5) risk of bias in selection of the reported result. Each domain was judged as being at "low risk of bias", "some concerns", or "high risk of bias". Trials with "low risk of bias" in all domains were classified as being at overall "low risk of bias". RCTs with one domain judged to be at "some concerns", but no domain judged to be at "high risk of bias", were classified as being at overall "some concerns" of risk of bias. RCTs were classified as being at overall "high risk of bias" if at least one domain was judged as being at "high risk of bias". However, if a trial was judged to be at "some concerns" due to risk of bias for multiple domains, it was judged as being at overall "high risk of bias" if the assessors judged that the multiple concerns amounted to a serious risk of bias. In case of discrepancies among their judgments and inability to reach consensus, we consulted the senior author (AN) to reach a final decision.
 
 ## Effect measures
 
