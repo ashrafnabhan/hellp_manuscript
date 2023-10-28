@@ -2,7 +2,9 @@
 title: "Corticosteroids in HELLP syndrome"
 subtitle: Data and synthesis script
 date: "2023-09-26"
-output: html_document
+output:
+  html_document:
+    df_print: paged
 always_allow_html: yes
 ---
 
@@ -41,6 +43,8 @@ kable(raw.data)
 6.  Platelet transfusion
 7.  Perinatal death
 
+\newpage
+
 ## Maternal Death
 
 Pairwise meta-analysis
@@ -50,6 +54,8 @@ bin = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,su
 summary(bin) 
 forest.meta(bin,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
+
+\newpage
 
 Risk of bias
 
@@ -65,12 +71,16 @@ Summary weighted barplot of risk-of-bias assessments
 include_graphics("rob_summary.png")
 ```
 
+\newpage
+
 Subgroup analysis: Antepartum vs postpartum vs mixed
 
 ```{r}
 subgr = update.meta(bin,subgroup = factor) 
-forest.meta(subgr,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm",col.subgroup = "black", fontsize = 7)
+forest.meta(subgr,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm",col.subgroup = "black", fontsize = 7 )
 ```
+
+\newpage
 
 Subgroup analysis: Dexa vs Beta vs Prednisolone
 
@@ -78,6 +88,8 @@ Subgroup analysis: Dexa vs Beta vs Prednisolone
 subgrc = update.meta(bin,subgroup = corticosteroid) 
 forest.meta(subgrc,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm",col.subgroup = "black", fontsize = 7)
 ```
+
+\newpage
 
 Sensitivity analysis: Low RoB
 
@@ -93,11 +105,15 @@ sensit = update.meta(bin,subset = outcome =="Maternal death", allstudies = T)
 forest.meta(sensit,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
 
+\newpage
+
 Funnel plot
 
 ```{r}
 funnel(x = bin)
 ```
+
+\newpage
 
 ## Acute pulmonary edema
 
@@ -107,6 +123,8 @@ summary(binpe)
 forest.meta(binpe,pooled.events = T,xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
 
+\newpage
+
 ## Acute renal failure
 
 ```{r}
@@ -114,6 +132,8 @@ binrf = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,
 summary(binrf)
 forest.meta(binrf,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
+
+\newpage
 
 ## Dialysis
 
@@ -123,6 +143,8 @@ summary(bindia)
 forest.meta(bindia,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
 
+\newpage
+
 ## Liver morbidity
 
 ```{r}
@@ -131,6 +153,8 @@ summary(binhep)
 forest.meta(binhep,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
 
+\newpage
+
 ## Platelet transfusion
 
 ```{r}
@@ -138,6 +162,8 @@ binpt = metabin(ee,ne,ec,nc,sm="RR",method = "Inverse",random = F, studlab = id,
 summary(binpt) 
 forest.meta(binpt,pooled.events = T, xlim = c(.01,100), label.e = "Corticosteroids",label.c = "Placebo",just = "left", test.overall.common = T,colgap.left = ".5cm", fontsize = 7)
 ```
+
+\newpage
 
 ## Perinatal death
 
