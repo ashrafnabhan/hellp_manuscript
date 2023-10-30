@@ -1,7 +1,5 @@
 ---
-format: 
-  docx:
-    reference-doc: template.docx  
+format: html
 bibliography: hellp.bib
 csl: bmj.csl
 ---
